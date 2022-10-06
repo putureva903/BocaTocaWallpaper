@@ -19,7 +19,7 @@
       "link_redirect": "https://"
     }
   ],
-  "Morex":
+  "More":
   [
     {
       "id":1,
@@ -59,7 +59,7 @@
     }
   ],
 
-  "Categoriesx": [
+  "Categories": [
     {
       "id": 1,
       "name_category": "Boca Toca",
@@ -68,7 +68,7 @@
 	
   ],
 
-  "Datax":
+  "Data":
   [
     {
       "id":1,
